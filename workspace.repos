@@ -1,0 +1,5 @@
+repositories:
+  ros2/rviz:
+    type: git
+    url: git@github.com:ros2/rviz.git
+    version: foxy
